@@ -1,4 +1,7 @@
 {
   "mongoURI": "mongodb+srv://yxshao:yxshao@cluster0.lppun.mongodb.net/devconnector?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "83f57f87dd8c4b809def",
+  "githubSecret": "191d9f6b9b68d095e2d5b4f7bf858bfd2f124485",
+  "githubToken": "dd96c6e522c724c268a5ee58e8a2c4a7ea3e9446"
 }
